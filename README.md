@@ -1,4 +1,4 @@
-<h2 align="left">Web-design!</h2>
+<h2 align="left">Web-design</h2>
 <ul>
 <li align="left">Creating simple web design, using the four principles i.e., 
   <ul>
